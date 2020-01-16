@@ -12,4 +12,6 @@ To help with the understanding of how certain mechanics of a game engine work to
 ## How?
 Frankly, I'm not too sure. I've never made a game engine before and I'm well aware it ain't too easy. I'm currently praying to the gods for some help, sacrificed 7 virgins to appease them, and currently harnessing my awesome searching and Stack Overflow skills to be able to figure the rest out. Hopefully it works out, either way this repo will be full of hot, smelly garbage, or still garbage but it's cold garbage \\\_0\_/
 ***
+![Spicy Meme](https://github.com/Kemp133/OSAGEIAMOS/blob/master/images/me-does-anything-in-java-java-what-the-fuck-is-43527021.png "Spicy Meme")
+***
 # Wow, it's empty this side of the fence. Guess I'll add more stuff when I actually do something with the engine...

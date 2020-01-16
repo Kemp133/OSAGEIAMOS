@@ -2,7 +2,7 @@
 ## Who?
 'Tis I, Johnathon Kemp
 ## What?
-As the title, a game engine in a month or so. Done as part of a group project for my course at univeristy to make a game in Java
+As the title, a game engine in a month... or so. Done as part of a group project for my course at univeristy to make a game in Java
 ## Where?
 Now that's telling
 ## When?

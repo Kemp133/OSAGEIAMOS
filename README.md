@@ -1,4 +1,4 @@
-#OSAGEIAMOS - Oh S***! A Game Engine In A Month Or So
+# OSAGEIAMOS - Oh S***! A Game Engine In A Month Or So
 ## Who?
 'Tis I, Johnathon Kemp
 ## What?

@@ -1,6 +1,7 @@
-package com.OSAGEIAMOS;
+package com.OSAGEIAMOS.Core;
 
 import com.OSAGEIAMOS.Input.Input;
+import com.OSAGEIAMOS.Main;
 import com.sun.prism.Graphics;
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
